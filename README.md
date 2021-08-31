@@ -1,4 +1,3 @@
-## Hongjun Guo
 
 
 ### Short Vitae
