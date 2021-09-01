@@ -1,4 +1,4 @@
-## <p align="center"> Hongjun Guo </p>
+## Hongjun Guo (郭宏骏)
 
 Address:	School of Mathematical Sciences,  
 217 Ningjing Lou,  
