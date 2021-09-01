@@ -5,9 +5,9 @@
 - Researcher at Tongji University, since 2020
 - Postdoctoral associate at University of Wyoming, 2019-2020
 - Postdoctoral associate at University of Miami, 2018-2019
-- PhD, 2018, Aix-Marseille Université, France
-- Master, 2015, Lanzhou University, China
-- Bachelor, 2012, Lanzhou University, China
+- PhD, Aix-Marseille Université, France, 2018
+- Master, Lanzhou University, China, 2015
+- Bachelor, Lanzhou University, China, 2012
 
 ## Research interest
 
