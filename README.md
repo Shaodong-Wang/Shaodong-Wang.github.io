@@ -1,5 +1,11 @@
 ## Hongjun Guo
 
+Address:	School of Mathematical Sciences,  
+217 Ningjing Lou,  
+Tongji University,  
+Shanghai  
+E-mail:	guohj29@tongji.edu.cn
+
 ## Short Vitae
 
 - Researcher at Tongji University, since 2020
