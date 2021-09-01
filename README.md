@@ -1,6 +1,7 @@
 ## Hongjun Guo (郭宏骏)
 
-<img width="150" height="150" src="https://github.com/Hongjun-Guo/hongjun-guo.github.io/blob/main/africa.png"/>
+![IMG_6825](https://user-images.githubusercontent.com/89850781/131598832-c318a830-988d-4636-889f-15453827d6ae.JPG)
+
 
 Address:	School of Mathematical Sciences,  
 217 Ningjing Lou,  
