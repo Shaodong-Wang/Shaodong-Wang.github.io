@@ -1,9 +1,10 @@
 <p align="center"> 
- <font size=20> Hongjun Guo (郭宏骏) </font>
+<font face="黑体" size="5">Hongjun Guo (郭宏骏)</font><br /> 
 </p>
 
+<p align="center"> 
 <img width="250" height="250" src="https://user-images.githubusercontent.com/89850781/131598832-c318a830-988d-4636-889f-15453827d6ae.JPG"/>
-
+</p>
 
 Address:	School of Mathematical Sciences,  
 217 Ningjing Lou,  
