@@ -1,5 +1,5 @@
 <p align="center"> 
-<font size="5">**Hongjun Guo (郭宏骏)**</font><br />
+<font size="5">Hongjun Guo (郭宏骏)</font><br />
 </p>
 
 <p align="center"> 
