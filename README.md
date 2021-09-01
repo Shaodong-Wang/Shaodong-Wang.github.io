@@ -1,6 +1,6 @@
-### Hongjun Guo
+## Hongjun Guo
 
-### Short Vitae
+## Short Vitae
 
 - Researcher at Tongji University, since 2020
 - Postdoctoral associate at University of Wyoming, 2019-2020
@@ -9,13 +9,13 @@
 - Master, 2015, Lanzhou University, China
 - Bachelor, 2012, Lanzhou University, China
 
-### Research interest
+## Research interest
 
 - Reaction-diffusion equations
 - Traveling waves, generalized transition waves, Propagation phenomena
 - Mathematical biology
 
-### Publications
+## Publications
 
 - Qualitative properties of pushed fronts of reaction-diffusion-advection equations, [preprint](https://arxiv.org/abs/2108.06546).
 - (with W.T. Li, R. Liu and Z.C. Wang) Curved fronts of bistable reaction-diffusion equations in spatially periodic media, [preprint](https://arxiv.org/abs/2006.03711).
