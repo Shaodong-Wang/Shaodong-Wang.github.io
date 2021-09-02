@@ -44,4 +44,4 @@ E-mail:	guohj29@tongji.edu.cn
 - (with W.J. Sheng) Transition fronts of time periodic bistable reaction-diffusion equations in R^N, _J. Diff. Equations_ 265 (2018), 2191-2242.([pdf](https://www.sciencedirect.com/science/article/abs/pii/S0022039618302237))
 - (with F. Hamel) Monotonicity of bistable transition fronts in R^N, _J. Elliptic Parabol. Equ._ 2 (2016), 145-155.([pdf](https://link.springer.com/article/10.1007%2FBF03377398))
 
-
+ <br>
