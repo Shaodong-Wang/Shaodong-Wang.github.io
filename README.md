@@ -33,6 +33,7 @@ E-mail:	guohj29@tongji.edu.cn
 
 ## Publications
 
+- (with K. Wang) Some results on classification of bistable transition fronts, in preparation.
 - Pushed fronts of monostable reaction-diffusion-advection equations, [preprint](https://arxiv.org/abs/2108.06546).
 - (with W.T. Li, R. Liu and Z.C. Wang) Curved fronts of bistable reaction-diffusion equations in spatially periodic media, _Arch. Ration. Mech. Anal._ 242 (2021), 1571–1627. ([pdf](https://link.springer.com/article/10.1007/s00205-021-01711-x)).
 - (with J. Forbey and R. Liu) Front propagation and blocking of reaction-diffusion systems in cylinders, _Nonlinearity_, 34 (2021), 6750-6722.([pdf](https://iopscience.iop.org/article/10.1088/1361-6544/abd529))
