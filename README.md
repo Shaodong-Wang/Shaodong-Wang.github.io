@@ -33,6 +33,7 @@ E-mail:	guohj29@tongji.edu.cn
 
 ## Publications
 
+- (with Y. Lyu and Z.C. Wang) On Traveling Fronts of Combustion Equations in Spatially Periodic Media, in preparation.
 - (with K. Wang) Some results on classification of bistable transition fronts, in preparation.
 - Pushed fronts of monostable reaction-diffusion-advection equations, _J. Diff. Equations_, 365 (2023), 127-162. ([pdf](https://doi.org/10.1016/j.jde.2023.01.042))
 - (with W.T. Li, R. Liu and Z.C. Wang) Curved fronts of bistable reaction-diffusion equations in spatially periodic media, _Arch. Ration. Mech. Anal._ 242 (2021), 1571–1627. ([pdf](https://link.springer.com/article/10.1007/s00205-021-01711-x)).
