@@ -35,15 +35,15 @@ E-mail:	guohj29@tongji.edu.cn
 
 - (with Y. Lyu and Z.C. Wang) On Traveling Fronts of Combustion Equations in Spatially Periodic Media, in preparation.
 - (with K. Wang) Some results on classification of bistable transition fronts, in preparation.
-- Pushed fronts of monostable reaction-diffusion-advection equations, _J. Diff. Equations_, 365 (2023), 127-162. ([pdf](https://doi.org/10.1016/j.jde.2023.01.042))
-- (with W.T. Li, R. Liu and Z.C. Wang) Curved fronts of bistable reaction-diffusion equations in spatially periodic media, _Arch. Ration. Mech. Anal._ 242 (2021), 1571–1627. ([pdf](https://link.springer.com/article/10.1007/s00205-021-01711-x)).
-- (with J. Forbey and R. Liu) Front propagation and blocking of reaction-diffusion systems in cylinders, _Nonlinearity_, 34 (2021), 6750-6722.([pdf](https://iopscience.iop.org/article/10.1088/1361-6544/abd529))
-- (with H. Monobe) V-shaped fronts around an obstacle, _Math. Ann._ 379 (2021), 661-689.([pdf](https://link.springer.com/article/10.1007/s00208-019-01944-y))
-- Transition fronts in unbounded domains with multiple branches, _Calc. Var. Part. Differ. Equ._ 59, 160 (2020).([pdf](https://link.springer.com/article/10.1007/s00526-020-01825-2))
-- (with F. Hamel and W.J. Sheng) On the mean speed of bistable transition fronts in unbounded domains, _J. Math. Pures Appl._ 136 (2020), 92-157.([pdf](https://www.sciencedirect.com/science/article/abs/pii/S0021782420300325))
-- (with Z.H. Bu and Z.C. Wang) Transition fronts of combustion reaction diffusion in R^N, _J. Dyn. Diff. Equ._ 31 (2019), 1987-2015.([pdf](https://link.springer.com/article/10.1007/s10884-018-9675-x))
-- Propagating speeds of bistable transition fronts in spatially periodic media, _Calc. Var. Part. Differ. Equ._ (2018) 57: 47.([pdf](https://link.springer.com/article/10.1007%2Fs00526-018-1327-9))
-- (with W.J. Sheng) Transition fronts of time periodic bistable reaction-diffusion equations in R^N, _J. Diff. Equations_ 265 (2018), 2191-2242.([pdf](https://www.sciencedirect.com/science/article/abs/pii/S0022039618302237))
-- (with F. Hamel) Monotonicity of bistable transition fronts in R^N, _J. Elliptic Parabol. Equ._ 2 (2016), 145-155.([pdf](https://link.springer.com/article/10.1007%2FBF03377398))
+- Pushed fronts of monostable reaction-diffusion-advection equations, _J. Diff. Equations_, 365 (2023), 127-162. ([link](https://doi.org/10.1016/j.jde.2023.01.042))
+- (with W.T. Li, R. Liu and Z.C. Wang) Curved fronts of bistable reaction-diffusion equations in spatially periodic media, _Arch. Ration. Mech. Anal._ 242 (2021), 1571–1627. ([link](https://link.springer.com/article/10.1007/s00205-021-01711-x)).
+- (with J. Forbey and R. Liu) Front propagation and blocking of reaction-diffusion systems in cylinders, _Nonlinearity_, 34 (2021), 6750-6722.([link](https://iopscience.iop.org/article/10.1088/1361-6544/abd529))
+- (with H. Monobe) V-shaped fronts around an obstacle, _Math. Ann._ 379 (2021), 661-689.([link](https://link.springer.com/article/10.1007/s00208-019-01944-y))
+- Transition fronts in unbounded domains with multiple branches, _Calc. Var. Part. Differ. Equ._ 59, 160 (2020).([link](https://link.springer.com/article/10.1007/s00526-020-01825-2))
+- (with F. Hamel and W.J. Sheng) On the mean speed of bistable transition fronts in unbounded domains, _J. Math. Pures Appl._ 136 (2020), 92-157.([link](https://www.sciencedirect.com/science/article/abs/pii/S0021782420300325))
+- (with Z.H. Bu and Z.C. Wang) Transition fronts of combustion reaction diffusion in R^N, _J. Dyn. Diff. Equ._ 31 (2019), 1987-2015.([link](https://link.springer.com/article/10.1007/s10884-018-9675-x))
+- Propagating speeds of bistable transition fronts in spatially periodic media, _Calc. Var. Part. Differ. Equ._ (2018) 57: 47.([link](https://link.springer.com/article/10.1007%2Fs00526-018-1327-9))
+- (with W.J. Sheng) Transition fronts of time periodic bistable reaction-diffusion equations in R^N, _J. Diff. Equations_ 265 (2018), 2191-2242.([link](https://www.sciencedirect.com/science/article/abs/pii/S0022039618302237))
+- (with F. Hamel) Monotonicity of bistable transition fronts in R^N, _J. Elliptic Parabol. Equ._ 2 (2016), 145-155.([link](https://link.springer.com/article/10.1007%2FBF03377398))
 
  <br>
