@@ -23,7 +23,7 @@ E-mail:	guohj29@tongji.edu.cn
 - Postdoctoral associate at University of Miami, 2018-2019
 - PhD, Aix-Marseille Université, France, 2018
 - Master, Lanzhou University, China, 2015
-- Bachelor, Lanzhou University, China, 2012
+- Bachelor, University of Science and Technology, China, 2012
 
 ## Research interest
 
