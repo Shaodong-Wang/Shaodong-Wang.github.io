@@ -7,12 +7,11 @@
   <br>
   
 <p align="center"> 
-<img width="300" height="300" src="africa.png"/>
+<img width="300" height="300" src=""/>
 </p>
 
-Address:	School of Mathematical Sciences,  
-217 Ningjing Lou,  
-Tongji University,  
+Address:	School of Mathematics and Statistics,  
+Nanjing University of ,  
 Shanghai  
 E-mail:	guohj29@tongji.edu.cn
 
