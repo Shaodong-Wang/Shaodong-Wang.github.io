@@ -7,7 +7,7 @@
   <br>
   
 <p align="center"> 
-<img width="300" height="300" src=""/>
+<img width="300" height="300" src="IMG_2397.jpg"/>
 </p>
 
 Address:	School of Mathematics and Statistics,  
