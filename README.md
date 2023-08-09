@@ -7,7 +7,7 @@
   <br>
   
 <p align="center"> 
-<img width="300" height="300" src="https://user-images.githubusercontent.com/89850781/131598832-c318a830-988d-4636-889f-15453827d6ae.JPG"/>
+<img width="300" height="300" src="africa.png"/>
 </p>
 
 Address:	School of Mathematical Sciences,  
