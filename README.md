@@ -10,7 +10,7 @@
 <img width="400" height="300" src="IMG_2397.jpg"/>
 </p>
 
-Address:	School of Mathematics and Statistics,  
+School of Mathematics and Statistics,  
 Nanjing University of Science and Technology,  
 Nanjing, China  
 E-mail:	shaodong.wang@mail.mcgill.ca
