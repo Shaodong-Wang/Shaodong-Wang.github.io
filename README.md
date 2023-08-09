@@ -29,7 +29,7 @@ E-mail:	shaodong.wang@mail.mcgill.ca
 - Nonlinear Partial Differential Equations
 - Geometric Analysis
 
-## Publications
+## Publications and Preprints
 
 - (with C. Liu and R. Zhuo) A priori estimates for anti-symmetric solutions to a fractional Laplacian equation in a bounded domain, _Preprint_.([link](https://arxiv.org/pdf/2308.02245.pdf))
 - (with S. Almaraz) A compactness theorem for conformal metrics with constant scalar curvature and constant boundary mean curvature in dimension three, _Preprint_.([link](https://arxiv.org/pdf/2306.07088.pdf))
