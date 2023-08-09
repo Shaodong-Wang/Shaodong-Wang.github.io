@@ -12,7 +12,7 @@
 
 Address:	School of Mathematics and Statistics,  
 Nanjing University of Science and Technology,  
-Nanjing  
+Nanjing, China  
 E-mail:	shaodong.wang@mail.mcgill.ca
 
 ## Short Vitae
