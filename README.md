@@ -29,6 +29,7 @@ E-mail:	shaodong.wang@mail.mcgill.ca
 
 ## Publications
 
+- (with S. Almaraz) Energy bounds of sign-changing solutions to Yamabe equations on manifolds with boundary, _Nonlinear Anal._, 225 (2022), Paper No. 113131, 12 pp.([link](https://arxiv.org/pdf/2205.06588.pdf))
 - (with J. Vetois) Infinitely many solutions for cubic nonlinear Schrödinger equations in dimension four, _Adv. Nonlinear Anal._, 8 (2019), no.1, 715-724.([link](https://www.degruyter.com/document/doi/10.1515/anona-2017-0085/html))
 
 
