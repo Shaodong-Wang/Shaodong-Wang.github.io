@@ -11,7 +11,7 @@
 </p>
 
 Address:	School of Mathematics and Statistics,  
-Nanjing University of ,  
+Nanjing University of Science and ,  
 Shanghai  
 E-mail:	guohj29@tongji.edu.cn
 
