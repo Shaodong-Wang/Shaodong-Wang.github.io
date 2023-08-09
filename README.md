@@ -1,7 +1,7 @@
   <br>
    
 <p align="center"> 
-<font size="5">Hongjun Guo (郭宏骏)</font><br />
+<font size="5">Shaodong Wang (王邵东)</font><br />
 </p>
  
   <br>
