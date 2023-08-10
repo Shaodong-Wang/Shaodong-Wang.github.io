@@ -16,7 +16,8 @@ Nanjing, China
 E-mail:	shaodong.wang@mail.mcgill.ca
 
 ## Education
-- Ph.D., McGill University, Canada, 2014.09-2019.06. Supervisors: Pengfei Guan and Jerome Vetois
+- Ph.D., McGill University, Canada, 2014.09-2019.06. <br>
+  Supervisors: Pengfei Guan and Jerome Vetois
 - B.S., University of Science and Technology, China, 2010.09-2014.06
 
 ## Employment
