@@ -16,13 +16,13 @@ Nanjing, China
 E-mail:	shaodong.wang@mail.mcgill.ca
 
 ## Education
-- PhD, McGill University, Canada, 2014.09-2019.06. Supervisors: Pengfei Guan and Jerome Vetois
-- Bachelor, University of Science and Technology, China, 2010.09-2014.06
+- Ph.D., McGill University, Canada, 2014.09-2019.06. Supervisors: Pengfei Guan and Jerome Vetois
+- B.S., University of Science and Technology, China, 2010.09-2014.06
 
 ## Employment
 
 - Associate Professor, Nanjing University of Science and Technology, 2023.06-present
-- Wu Wen-Tsun Assistant Professor at Shanghai Jiao Tong University, 2019.05-2023.05
+- Wu Wen-Tsun Assistant Professor, Shanghai Jiao Tong University, 2019.05-2023.05
 
 ## Research interest
 
