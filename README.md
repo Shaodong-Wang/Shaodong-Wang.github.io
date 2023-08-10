@@ -1,5 +1,5 @@
   <br>
-<title>My homepage</title>
+  
 <p align="center"> 
 <font size="5">Shaodong Wang (王邵东)</font><br />
 </p>
