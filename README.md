@@ -23,6 +23,7 @@ E-mail:	shaodong.wang@mail.mcgill.ca
 
 - Associate Professor, Nanjing University of Science and Technology, 2023.06-present
 - Wu Wen-Tsun Assistant Professor, Shanghai Jiao Tong University, 2019.05-2023.05
+- <a href="https://math.tongji.edu.cn/info/1115/8498.htm">X. Zhang</a>
 
 ## Research interest
 
