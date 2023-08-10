@@ -41,4 +41,9 @@ E-mail:	shaodong.wang@mail.mcgill.ca
 - (with <a href="https://www.math.mcgill.ca/vetois/">Jerome Vetois</a>) Infinitely many solutions for cubic nonlinear Schrödinger equations in dimension four, _Adv. Nonlinear Anal._, 8 (2019), no.1, 715-724.([link](https://www.degruyter.com/document/doi/10.1515/anona-2017-0085/html))
 - Infinitely many blowing-up solutions for Yamabe-type problems on manifolds with boundary, _Commun. Pure Appl. Anal._, 17 (2018), no.1, 209–230.([link](https://www.aimsciences.org/article/doi/10.3934/cpaa.2018013))
 
+## Teaching
+
+- MA247 Basic Calculus 2019-2020 Fall
+- MA247 Basic Calculus 2020-2021 Fall
+
  <br>
