@@ -21,8 +21,9 @@ E-mail:	shaodong.wang@mail.mcgill.ca
 
 - Associate Professor, Nanjing University of Science and Technology, 2023.06-present
 - Wu Wen-Tsun Assistant Professor, Shanghai Jiao Tong University, 2019.05-2023.05
-- 
+  
 ## Education
+
 - Ph.D., McGill University, Canada, 2014.09-2019.06 <br>
   Supervisors: <a href="https://math.mcgill.ca/guan/">Pengfei Guan</a> and <a href="https://www.math.mcgill.ca/vetois/">Jerome Vetois</a> <br>
   Thesis: <a href="./Thesis_Shaodong.pdf"><em>Compactness and noncompactness of Yamabe-type problems on manifolds with boundary</em></a>
