@@ -15,7 +15,7 @@ Nanjing University of Science and Technology,
 Nanjing, China  
 E-mail:	shaodong.wang@mail.mcgill.ca
 
-## <a href="./CV.pdf"><em>Curriculum Vitae</em></a>
+## <a href="./CV.pdf">Curriculum Vitae</a>
 
 ## Education
 - Ph.D., McGill University, Canada, 2014.09-2019.06 <br>
