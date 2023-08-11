@@ -19,6 +19,7 @@ E-mail:	shaodong.wang@mail.mcgill.ca
 - Ph.D., McGill University, Canada, 2014.09-2019.06 <br>
   Supervisors: Pengfei Guan and Jerome Vetois <br>
   Thesis: Compactness and noncompactness of Yamabe-type problems on manifolds with boundary
+  <a href="./Thesis_Shaodong.pdf"><em>Compactness and noncompactness of Yamabe-type problems on manifolds with boundary</em></a>
 - B.S., University of Science and Technology of China, 2010.09-2014.06
 
 ## Employment
