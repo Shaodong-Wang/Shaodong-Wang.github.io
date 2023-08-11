@@ -15,6 +15,8 @@ Nanjing University of Science and Technology,
 Nanjing, China  
 E-mail:	shaodong.wang@mail.mcgill.ca
 
+## <a href="./CV.pdf"><em>Curriculum Vitae</em></a>
+
 ## Education
 - Ph.D., McGill University, Canada, 2014.09-2019.06 <br>
   Supervisors: <a href="https://math.mcgill.ca/guan/">Pengfei Guan</a> and <a href="https://www.math.mcgill.ca/vetois/">Jerome Vetois</a> <br>
