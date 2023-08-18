@@ -15,9 +15,10 @@ Nanjing University of Science and Technology,
 Nanjing, China  
 E-mail:	shaodong.wang@mail.mcgill.ca
 
-<a href="./CV.pdf">Curriculum Vitae</a>
-<a href="https://mathscinet.ams.org/mathscinet/author?authorId=1273213">MathScinet</a> 
-<a href="https://orcid.org/my-orcid?orcid=0000-0002-4472-2190">Orcid</a> 
+## Related Links
+- <a href="./CV.pdf">Curriculum Vitae</a>
+- <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1273213">MathScinet</a> 
+- <a href="https://orcid.org/my-orcid?orcid=0000-0002-4472-2190">Orcid</a> 
 
 ## Employment
 
