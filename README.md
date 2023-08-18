@@ -17,8 +17,8 @@ E-mail:	shaodong.wang@mail.mcgill.ca
 
 ## Employment
 
-- Associate Professor, Nanjing University of Science and Technology, 2023.06-present
-- Wu Wen-Tsun Assistant Professor, Shanghai Jiao Tong University, 2019.05-2023.05
+- 2023.06-present, Associate Professor, Nanjing University of Science and Technology
+- 2019.05-2023.05, Wu Wen-Tsun Assistant Professor, Shanghai Jiao Tong University
   
 ## Education
 
