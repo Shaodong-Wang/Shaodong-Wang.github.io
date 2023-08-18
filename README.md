@@ -15,11 +15,6 @@ Nanjing University of Science and Technology,
 Nanjing, China  
 E-mail:	shaodong.wang@mail.mcgill.ca
 
-## Related Links
-- <a href="./CV.pdf">Curriculum Vitae</a>
-- <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1273213">MathScinet</a> 
-- <a href="https://orcid.org/my-orcid?orcid=0000-0002-4472-2190">Orcid</a> 
-
 ## Employment
 
 - Associate Professor, Nanjing University of Science and Technology, 2023.06-present
@@ -51,5 +46,11 @@ E-mail:	shaodong.wang@mail.mcgill.ca
 ### At Shanghai Jiao Tong University
 - MA247 Basic Calculus 2019-2020 Fall
 - MA247 Basic Calculus 2020-2021 Fall
+
+## Related Links
+- <a href="./CV.pdf">Curriculum Vitae</a>
+- <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1273213">MathScinet</a> 
+- <a href="https://orcid.org/my-orcid?orcid=0000-0002-4472-2190">Orcid</a> 
+
 
  <br>
