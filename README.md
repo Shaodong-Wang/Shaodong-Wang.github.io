@@ -22,10 +22,10 @@ E-mail:	shaodong.wang@mail.mcgill.ca
   
 ## Education
 
-- Ph.D., McGill University, 2014.09-2019.06 <br>
+- 2014.09-2019.06, Ph.D., McGill University <br>
   Supervisors: <a href="https://math.mcgill.ca/guan/">Pengfei Guan</a> and <a href="https://www.math.mcgill.ca/vetois/">Jerome Vetois</a> <br>
   Thesis: <a href="./Thesis_Shaodong.pdf"><em>Compactness and noncompactness of Yamabe-type problems on manifolds with boundary</em></a>
-- B.S., University of Science and Technology of China, 2010.09-2014.06
+- 2010.09-2014.06, B.S., University of Science and Technology of China
 
 ## Research interest
 
@@ -44,8 +44,8 @@ E-mail:	shaodong.wang@mail.mcgill.ca
 
 ## Teaching
 ### At Shanghai Jiao Tong University
-- MA247 Basic Calculus 2019-2020 Fall
-- MA247 Basic Calculus 2020-2021 Fall
+- 2019-2020 Fall, MA247 Basic Calculus 
+- 2020-2021 Fall, MA247 Basic Calculus 
 
 ## Related Links
 - <a href="./CV.pdf">Curriculum Vitae</a>
