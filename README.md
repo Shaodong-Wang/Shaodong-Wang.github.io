@@ -44,6 +44,10 @@ E-mail:	shaodong.wang@mail.mcgill.ca
 - _Infinitely many blowing-up solutions for Yamabe-type problems on manifolds with boundary_, Commun. Pure Appl. Anal., 17 (2018), no.1, 209–230.([link](https://www.aimsciences.org/article/doi/10.3934/cpaa.2018013))
 
 ## Teaching
+
+### At Nanjing University of Science and Technology
+- 2024-2025 Fall, Mathematical Analysis 
+
 ### At Shanghai Jiao Tong University
 - 2019-2020 Fall, MA247 Basic Calculus 
 - 2020-2021 Fall, MA247 Basic Calculus 
