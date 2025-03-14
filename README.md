@@ -34,7 +34,7 @@ E-mail:	shaodong.wang@mail.mcgill.ca
 
 ## Publications and Preprints
 
-- (with <a href="https://www.professores.uff.br/almaraz/2017/09/22/pesquisaresearch/">S. Almaraz</a>) _A priori estimates for negative constant scalar curvature conformal metrics with positive constant boundary mean curvature_, To appear in J. London Math. Soc.. ([link](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70109))
+- (with <a href="https://www.professores.uff.br/almaraz/2017/09/22/pesquisaresearch/">S. Almaraz</a>) _A priori estimates for negative constant scalar curvature conformal metrics with positive constant boundary mean curvature_, J. Lond. Math. Soc. 111 (2025), no. 3, Paper No. e70109. ([link](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70109))
 - (with <a href="https://www.professores.uff.br/almaraz/2017/09/22/pesquisaresearch/">S. Almaraz</a>) _A compactness theorem for conformal metrics with constant scalar curvature and constant boundary mean curvature in dimension three_, Calc. Var. Partial Differential Equations 64 (2025), no. 1, Paper No. 35. ([link](https://link.springer.com/article/10.1007/s00526-024-02895-2))
 - (with C. Liu and R. Zhuo) _A priori estimates for anti-symmetric solutions to a fractional Laplacian equation in a bounded domain_, Preprint on arxiv 2308.02245. ([link](https://arxiv.org/pdf/2308.02245.pdf))
 - (with <a href="https://www.professores.uff.br/almaraz/2017/09/22/pesquisaresearch/">S. Almaraz</a>) _Energy bounds of sign-changing solutions to Yamabe equations on manifolds with boundary_, Nonlinear Anal., 225 (2022), Paper No. 113131, 12 pp.([link](https://www.sciencedirect.com/science/article/abs/pii/S0362546X22002097?via%3Dihub))
