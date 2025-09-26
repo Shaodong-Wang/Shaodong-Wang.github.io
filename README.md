@@ -10,7 +10,7 @@
 <img width="400" height="300" src="IMG_2397.jpg"/>
 </p>
 
-Address: <a href="https://math.njust.edu.cn/"> School of Mathematics and Statistics </a> 
+Address: <a href="https://math.njust.edu.cn/"> School of Mathematics and Statistics </a> ,
 Nanjing University of Science and Technology,  
 Nanjing, China  
 E-mail:	shaodong.wang@mail.mcgill.ca
