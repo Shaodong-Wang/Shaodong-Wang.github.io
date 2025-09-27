@@ -11,8 +11,7 @@
 </p>
 
 Address: <a href="https://math.njust.edu.cn/"> School of Mathematics and Statistics </a>, 
-Nanjing University of Science and Technology,  
-Nanjing, China  
+Nanjing University of Science and Technology, Nanjing, China  
 E-mail:	shaodong.wang@mail.mcgill.ca
 
 ## Employment
