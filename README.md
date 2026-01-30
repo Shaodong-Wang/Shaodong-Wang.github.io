@@ -45,6 +45,7 @@ E-mail:	shaodong.wang@mail.mcgill.ca
 ## Teaching
 
 ### At Nanjing University of Science and Technology
+- 2025-2026 Fall, Mathematical Analysis I
 - 2024-2025 Fall, Mathematical Analysis I
 
 ### At Shanghai Jiao Tong University
