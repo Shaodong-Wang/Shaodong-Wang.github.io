@@ -32,6 +32,7 @@ E-mail:	shaodong.wang@mail.mcgill.ca
 - Geometric Analysis
 
 ## Publications and Preprints
+- (with <a href="https://www.professores.uff.br/almaraz/2017/09/22/pesquisaresearch/">S. Almaraz and L. de Lima</a>) _A mass-type invariant for smooth metric measure spaces and its relation with the fractional Yamabe problem_, Preprint on arxiv 2606.23248. ([link](https://arxiv.org/pdf/2606.23248.pdf))
 - (with <a href="https://www.professores.uff.br/almaraz/2017/09/22/pesquisaresearch/">S. Almaraz</a>) _A positive mass theorem for non-smooth metrics on asymptotically flat manifolds with non-compact boundary_, Preprint on arxiv 2506.20453. ([link](https://arxiv.org/pdf/2506.20453.pdf))
 - (with C. Liu and R. Zhuo) _A priori estimates for anti-symmetric solutions to a fractional Laplacian equation in a bounded domain_, Nonlinear Anal. 263 (2026), Paper No. 113970, 10 pp. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0362546X25002226))
 - (with <a href="https://www.professores.uff.br/almaraz/2017/09/22/pesquisaresearch/">S. Almaraz</a>) _A priori estimates for negative constant scalar curvature conformal metrics with positive constant boundary mean curvature_, J. Lond. Math. Soc. 111 (2025), no. 3, Paper No. e70109. ([link](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70109))
